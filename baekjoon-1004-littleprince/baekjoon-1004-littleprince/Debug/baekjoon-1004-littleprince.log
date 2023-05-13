@@ -1,0 +1,3 @@
+﻿  baekjoon-1003-litleprince.c
+E:\algorithm-baekjoon\baekjoon-1004-littleprince\baekjoon-1004-littleprince\baekjoon-1003-litleprince.c(47,6): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  baekjoon-1004-littleprince.vcxproj -> E:\algorithm-baekjoon\baekjoon-1004-littleprince\Debug\baekjoon-1004-littleprince.exe
